@@ -7,7 +7,7 @@ Blah blah blah, you know the deal.
 
 Download the assembly, replace the existing assembly and, enjoy, or whatever.
 
-_Hint: Go to your stick fight directory by clicking the gear then manage then going to the directory. Then go through `StickFight_Data` and then `Managed`._
+_Hint: Go to your stick fight directory by clicking the gear then manage then going to the browse local files. Then go through `StickFight_Data` and then `Managed`, then replace Assembly.csharp with this file._
 
 ### How to control this M0D
 
