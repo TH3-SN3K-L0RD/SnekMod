@@ -13,7 +13,7 @@ _Hint: Go to your stick fight directory by clicking the gear then manage then go
 
 `Left Shift` - Press and hold to ACT1V4T3 FLY P0W3RS.
 
-`r` - Reloads your gun. Hold it down to get infinite ammo. BUT it's super loud.
+`R` - Reloads your gun. Hold it down to get infinite ammo. BUT it's super loud.
 
 `Middle Mouse` - Uncap fire rate.
 
@@ -21,8 +21,8 @@ _Hint: Go to your stick fight directory by clicking the gear then manage then go
 
 `Right Bracket` - Give yourself the saved weapons.
 
-'Q' - Revives your character. Will take a while, and doesn't work in the void, but after that, you'll go into ghost mode.
+`Q` - Revives your character. Will take a while, and doesn't work in the void, but after that, you'll go into ghost mode.
 
-'H' - Heals you to 100 health. (Doesn't work)
+`H` - Heals you to 100 health. (Doesn't work)
 
-'M' - Heals you to 10,000 health. (Doesn't work)
+M` - Heals you to 10,000 health. (Doesn't work)
