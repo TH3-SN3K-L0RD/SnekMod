@@ -11,6 +11,8 @@ _Hint: Go to your stick fight directory by clicking the gear then manage then go
 
 ### How to control this M0D
 
+There's no fancy UI. Just keybinds.
+
 `Left Shift` - Press and hold to ACT1V4T3 FLY P0W3RS.
 
 `R` - Reloads your gun. Hold it down to get infinite ammo. BUT it's super loud.
