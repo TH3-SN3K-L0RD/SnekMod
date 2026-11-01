@@ -25,4 +25,4 @@ _Hint: Go to your stick fight directory by clicking the gear then manage then go
 
 `H` - Heals you to 100 health. (Doesn't work)
 
-M` - Heals you to 10,000 health. (Doesn't work)
+`M` - Heals you to 10,000 health. (Doesn't work)
