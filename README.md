@@ -20,3 +20,9 @@ _Hint: Go to your stick fight directory by clicking the gear then manage then go
 `Left Bracket` - Save weapons.
 
 `Right Bracket` - Give yourself the saved weapons.
+
+'Q' - Revives your character. Will take a while, and doesn't work in the void, but after that, you'll go into ghost mode.
+
+'H' - Heals you to 100 health. (Doesn't work)
+
+'M' - Heals you to 10,000 health. (Doesn't work)
